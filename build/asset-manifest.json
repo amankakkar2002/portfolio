@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81faf2c1.css",
+    "main.js": "/static/js/main.54abe33e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/icon1.png": "/static/media/icon1.4d48536009622679f5ce.png",
+    "static/media/Aman.pdf": "/static/media/Aman.fe1a106a79256fcd7b8d.pdf",
+    "static/media/link.png": "/static/media/link.2aa580ad4a19f58cf75d.png",
+    "static/media/Profile.jpg": "/static/media/Profile.814f1e88e37517223fc6.jpg",
+    "static/media/icon3.jpg": "/static/media/icon3.789b59b5b3ac0aafe6cc.jpg",
+    "static/media/icon2.jpeg": "/static/media/icon2.3a93164c8ae068f1c46c.jpeg",
+    "index.html": "/index.html",
+    "main.81faf2c1.css.map": "/static/css/main.81faf2c1.css.map",
+    "main.54abe33e.js.map": "/static/js/main.54abe33e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81faf2c1.css",
+    "static/js/main.54abe33e.js"
+  ]
+}

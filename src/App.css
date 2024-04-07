@@ -1,0 +1,165 @@
+body
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.youtubeicon:hover
+{
+  transition: 450ms;
+  color: red !important;
+}
+
+.instaicon:hover
+{
+  transition: 450ms;
+  color: #d62976 !important;
+}
+.linkedin:hover
+{
+  transition: 450ms;
+  color: blue !important;
+  background-color: white;
+  border-radius: 10%;
+}
+.github:hover
+{
+  transition: 450ms;
+  background-color: black;
+  border-radius: 50%;
+}
+
+a
+{
+  text-decoration: none !important;
+}
+
+.card
+{
+  border-radius: 20px;
+}
+
+.card:hover
+{
+  transform: scale(1.05);
+  transition: 300ms;
+}
+.bggradient
+{
+  background-image: linear-gradient(to bottom right,rgb(240, 242, 245),rgb(254, 254, 255));
+}
+
+.profile-container
+{
+  background-image: url('./images/bg2.jpg');
+}
+
+.profile-parent
+{
+  color: aliceblue;
+}
+
+.profile-details-name
+{
+  font-family: "Poppins Semibold";
+}
+
+.profile-details-role
+{
+  display: flex;
+  flex-direction: column;
+}
+
+.profile-details-role h2{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  /* font-size: 40px; */
+}
+
+.primary-text
+{
+  color: (--white);
+}
+
+.profile-role-tagline
+{
+  /* font-size: 19px; */
+  font-family: "Poppins Light" !important;
+}
+
+
+.shape-img
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  background-color: #22273a;
+}
+
+.nav-profile
+{
+  border-radius: 50%;
+}
+
+.border-white:hover
+{
+  transform: scale(1.07);
+  transition: 0.5s ease-in-out;
+}
+
+.circle {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: grey;
+  /* margin-right: 40px; */
+  margin-left:-9px;
+  position: absolute;
+  top: 8px;
+}
+
+.text-left {
+  position: relative;
+}
+
+.text-left::before {
+  content: "";
+  position: absolute;
+  top: 20px; /* Adjust this value as needed */
+  /* left: -21px; Adjust this value as needed */
+  width: 4px;
+  height: calc(100% - 10px); /* Adjust this value as needed */
+  background-color: grey;
+}
+
+.time-period{
+  background-color: grey;
+  color: white;
+  border-radius: 15px;
+}
+
+.role{
+  font-style: italic;
+  font-weight: bolder;
+  color: #22273a;
+}
+
+.circle-content
+{
+  font-weight: bold;
+  color:grey
+}
+
+.tasks
+{
+  margin-bottom: 30px !important;
+}
+
+.achievements
+{
+  font-size: medium !important;
+}
+
+.card-height
+{
+  height: 120px;
+}
