@@ -6,7 +6,7 @@ import img1 from "../images/icon1.png";
 import img2 from "../images/icon2.jpeg";
 import img3 from "../images/icon3.jpg";
 import link from "../images/link.png";
-import resume from "./Aman.pdf";
+import resume from "./Aman Kakkar Resume.pdf";
 import profile from "../images/Profile.jpg";
 import { FaYoutube, FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
 
